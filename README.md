@@ -1,2 +1,2 @@
 # HenSoup
-Hen Soup Everyday by Max.Liu 
+刘校长鸡汤语录与讲堂
